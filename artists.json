@@ -1,0 +1,503 @@
+{
+    "artists": [{
+            "artist_id": 157,
+            "name": "Taylor Swift",
+            "tracker_count": 6311375
+        },
+        {
+            "artist_id": 171,
+            "name": "Bullet for My Valentine",
+            "tracker_count": 1521433
+        },
+        {
+            "artist_id": 198,
+            "name": "Bloc Party",
+            "tracker_count": 664565
+        },
+        {
+            "artist_id": 265,
+            "name": "The Starting Line",
+            "tracker_count": 177313
+        },
+        {
+            "artist_id": 299,
+            "name": "McFly",
+            "tracker_count": 254996
+        },
+        {
+            "artist_id": 304,
+            "name": "The Spill Canvas",
+            "tracker_count": 166232
+        },
+        {
+            "artist_id": 327,
+            "name": "The Offspring",
+            "tracker_count": 1728512
+        },
+        {
+            "artist_id": 365,
+            "name": "Keane",
+            "tracker_count": 679527
+        },
+        {
+            "artist_id": 406,
+            "name": "Pepper",
+            "tracker_count": 351502
+        },
+        {
+            "artist_id": 408,
+            "name": "Anna Nalick",
+            "tracker_count": 114183
+        },
+        {
+            "artist_id": 564,
+            "name": "Lynyrd Skynyrd",
+            "tracker_count": 1409783
+        },
+        {
+            "artist_id": 638,
+            "name": "Mos Def",
+            "tracker_count": 460963
+        },
+        {
+            "artist_id": 687,
+            "name": "Opeth",
+            "tracker_count": 455097
+        },
+        {
+            "artist_id": 758,
+            "name": "Pennywise",
+            "tracker_count": 347994
+        },
+        {
+            "artist_id": 787,
+            "name": "Erykah Badu",
+            "tracker_count": 735918
+        },
+        {
+            "artist_id": 805,
+            "name": "Grits",
+            "tracker_count": 80790
+        },
+        {
+            "artist_id": 924,
+            "name": "Against Me!",
+            "tracker_count": 269314
+        },
+        {
+            "artist_id": 935,
+            "name": "Chris Young",
+            "tracker_count": 933304
+        },
+        {
+            "artist_id": 956,
+            "name": "Scooter",
+            "tracker_count": 77224
+        },
+        {
+            "artist_id": 974,
+            "name": "Tracy Lawrence",
+            "tracker_count": 270930
+        },
+        {
+            "artist_id": 984,
+            "name": "Reba McEntire",
+            "tracker_count": 459308
+        },
+        {
+            "artist_id": 987,
+            "name": "Glassjaw",
+            "tracker_count": 105699
+        },
+        {
+            "artist_id": 1079,
+            "name": "Juice",
+            "tracker_count": 21746
+        },
+        {
+            "artist_id": 1104,
+            "name": "Chris Tomlin",
+            "tracker_count": 892250
+        },
+        {
+            "artist_id": 1156,
+            "name": "Suicidal Tendencies",
+            "tracker_count": 318019
+        },
+        {
+            "artist_id": 1170,
+            "name": "The Almost",
+            "tracker_count": 158091
+        },
+        {
+            "artist_id": 1260,
+            "name": "Cowboy Troy",
+            "tracker_count": 20613
+        },
+        {
+            "artist_id": 1263,
+            "name": "Primus",
+            "tracker_count": 484744
+        },
+        {
+            "artist_id": 1266,
+            "name": "KMFDM",
+            "tracker_count": 89819
+        },
+        {
+            "artist_id": 1376,
+            "name": "Finger Eleven",
+            "tracker_count": 225996
+        },
+        {
+            "artist_id": 1533,
+            "name": "Wednesday 13",
+            "tracker_count": 64679
+        },
+        {
+            "artist_id": 1576,
+            "name": "Kellie Pickler",
+            "tracker_count": 386228
+        },
+        {
+            "artist_id": 1670,
+            "name": "Get Cape. Wear Cape. Fly",
+            "tracker_count": 41315
+        },
+        {
+            "artist_id": 1681,
+            "name": "Joseph Arthur",
+            "tracker_count": 51594
+        },
+        {
+            "artist_id": 1682,
+            "name": "Ramon Ayala",
+            "tracker_count": 44152
+        },
+        {
+            "artist_id": 1719,
+            "name": "Katie Melua",
+            "tracker_count": 103044
+        },
+        {
+            "artist_id": 1741,
+            "name": "Black Flag",
+            "tracker_count": 314096
+        },
+        {
+            "artist_id": 1826,
+            "name": "Sting",
+            "tracker_count": 759895
+        },
+        {
+            "artist_id": 1932,
+            "name": "Letters to Cleo",
+            "tracker_count": 36841
+        },
+        {
+            "artist_id": 1974,
+            "name": "The Lawrence Arms",
+            "tracker_count": 47280
+        },
+        {
+            "artist_id": 1989,
+            "name": "Rhett Akins",
+            "tracker_count": 102483
+        },
+        {
+            "artist_id": 2257,
+            "name": "Fatman Scoop",
+            "tracker_count": 34274
+        },
+        {
+            "artist_id": 2341,
+            "name": "Seeed",
+            "tracker_count": 109583
+        },
+        {
+            "artist_id": 2409,
+            "name": "Europe",
+            "tracker_count": 188485
+        },
+        {
+            "artist_id": 2471,
+            "name": "Terri Clark",
+            "tracker_count": 105119
+        },
+        {
+            "artist_id": 2478,
+            "name": "Primal Scream",
+            "tracker_count": 144586
+        },
+        {
+            "artist_id": 2531,
+            "name": "Crazy Town",
+            "tracker_count": 123362
+        },
+        {
+            "artist_id": 2634,
+            "name": "John Mellencamp",
+            "tracker_count": 469209
+        },
+        {
+            "artist_id": 2687,
+            "name": "En Vogue",
+            "tracker_count": 102237
+        },
+        {
+            "artist_id": 2841,
+            "name": "Bilal",
+            "tracker_count": 100233
+        },
+        {
+            "artist_id": 2926,
+            "name": "Born Ruffians",
+            "tracker_count": 89076
+        },
+        {
+            "artist_id": 3087,
+            "name": "Green Velvet",
+            "tracker_count": 84771
+        },
+        {
+            "artist_id": 3117,
+            "name": "Martha Wainwright",
+            "tracker_count": 41027
+        },
+        {
+            "artist_id": 3424,
+            "name": "Samiam",
+            "tracker_count": 21042
+        },
+        {
+            "artist_id": 3681,
+            "name": "Old 97's",
+            "tracker_count": 99316
+        },
+        {
+            "artist_id": 3702,
+            "name": "Gang of Four",
+            "tracker_count": 65488
+        },
+        {
+            "artist_id": 3753,
+            "name": "Freestylers",
+            "tracker_count": 102925
+        },
+        {
+            "artist_id": 3831,
+            "name": "GBH",
+            "tracker_count": 48912
+        },
+        {
+            "artist_id": 3872,
+            "name": "Luciano",
+            "tracker_count": 101157
+        },
+        {
+            "artist_id": 4151,
+            "name": "Overkill",
+            "tracker_count": 166709
+        },
+        {
+            "artist_id": 4423,
+            "name": "Wade Bowen",
+            "tracker_count": 180677
+        },
+        {
+            "artist_id": 4874,
+            "name": "Gemini",
+            "tracker_count": 84826
+        },
+        {
+            "artist_id": 4970,
+            "name": "Les Claypool",
+            "tracker_count": 92916
+        },
+        {
+            "artist_id": 4972,
+            "name": "Saez",
+            "tracker_count": 23038
+        },
+        {
+            "artist_id": 5128,
+            "name": "Manic Drive",
+            "tracker_count": 28619
+        },
+        {
+            "artist_id": 5203,
+            "name": "Dinosaur Jr.",
+            "tracker_count": 255851
+        },
+        {
+            "artist_id": 5329,
+            "name": "MC Lyte",
+            "tracker_count": 44622
+        },
+        {
+            "artist_id": 5395,
+            "name": "Marty Friedman",
+            "tracker_count": 92884
+        },
+        {
+            "artist_id": 5427,
+            "name": "TC",
+            "tracker_count": 38994
+        },
+        {
+            "artist_id": 5594,
+            "name": "Adele",
+            "tracker_count": 5836653
+        },
+        {
+            "artist_id": 6240,
+            "name": "Celtic Woman",
+            "tracker_count": 87324
+        },
+        {
+            "artist_id": 6257,
+            "name": "Volbeat",
+            "tracker_count": 660673
+        },
+        {
+            "artist_id": 6415,
+            "name": "Nek",
+            "tracker_count": 35947
+        },
+        {
+            "artist_id": 6584,
+            "name": "Kruder & Dorfmeister",
+            "tracker_count": 48605
+        },
+        {
+            "artist_id": 7047,
+            "name": "The Stylistics",
+            "tracker_count": 45797
+        },
+        {
+            "artist_id": 7453,
+            "name": "Elefante",
+            "tracker_count": 25189
+        },
+        {
+            "artist_id": 7792,
+            "name": "Victor Wooten",
+            "tracker_count": 137011
+        },
+        {
+            "artist_id": 8008,
+            "name": "Clueso",
+            "tracker_count": 86898
+        },
+        {
+            "artist_id": 8219,
+            "name": "Hayseed Dixie",
+            "tracker_count": 30270
+        },
+        {
+            "artist_id": 8819,
+            "name": "Fun Lovin' Criminals",
+            "tracker_count": 46867
+        },
+        {
+            "artist_id": 9136,
+            "name": "Kirk Whalum",
+            "tracker_count": 37869
+        },
+        {
+            "artist_id": 9753,
+            "name": "Caspian",
+            "tracker_count": 67636
+        },
+        {
+            "artist_id": 10206,
+            "name": "DJ Unk",
+            "tracker_count": 50688
+        },
+        {
+            "artist_id": 10782,
+            "name": "TesseracT",
+            "tracker_count": 158282
+        },
+        {
+            "artist_id": 10949,
+            "name": "Dessa",
+            "tracker_count": 45142
+        },
+        {
+            "artist_id": 11005,
+            "name": "Gabriel Iglesias",
+            "tracker_count": 27494
+        },
+        {
+            "artist_id": 11305,
+            "name": "Taj Mahal",
+            "tracker_count": 99851
+        },
+        {
+            "artist_id": 12011,
+            "name": "Conflict",
+            "tracker_count": 23524
+        },
+        {
+            "artist_id": 12043,
+            "name": "Cherry Poppin' Daddies",
+            "tracker_count": 33727
+        },
+        {
+            "artist_id": 12165,
+            "name": "Fonseca",
+            "tracker_count": 56864
+        },
+        {
+            "artist_id": 12319,
+            "name": "Sam Bush",
+            "tracker_count": 51224
+        },
+        {
+            "artist_id": 12808,
+            "name": "Dimitri From Paris",
+            "tracker_count": 27769
+        },
+        {
+            "artist_id": 12896,
+            "name": "That 1 Guy",
+            "tracker_count": 23670
+        },
+        {
+            "artist_id": 13527,
+            "name": "Tweet",
+            "tracker_count": 32708
+        },
+        {
+            "artist_id": 14433,
+            "name": "Steve Wariner",
+            "tracker_count": 25789
+        },
+        {
+            "artist_id": 14495,
+            "name": "J-Kwon",
+            "tracker_count": 73745
+        },
+        {
+            "artist_id": 15062,
+            "name": "YUNA",
+            "tracker_count": 176818
+        },
+        {
+            "artist_id": 15214,
+            "name": "Acid King",
+            "tracker_count": 28750
+        },
+        {
+            "artist_id": 15332,
+            "name": "Elissa",
+            "tracker_count": 21926
+        },
+        {
+            "artist_id": 15741,
+            "name": "Lettuce",
+            "tracker_count": 126865
+        }
+    ]
+}
